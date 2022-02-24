@@ -1,0 +1,36 @@
+{
+    "provider": "google",
+    "sub": "102273692628710230540",
+    "id": "102273692628710230540",
+    "displayName": "eric niyonkuru",
+    "name": {
+        "givenName": "eric",
+        "familyName": "niyonkuru"
+    },
+    "given_name": "eric",
+    "family_name": "niyonkuru",
+    "email_verified": true,
+    "verified": true,
+    "language": "en",
+    "email": "niyonkurufamous@gmail.com",
+    "emails": [{
+        "value": "niyonkurufamous@gmail.com",
+        "type": "account"
+    }],
+    "photos": [{
+        "value": "https://lh3.googleusercontent.com/a-/AOh14GiylkA0s5MKTrjfBGFoakbMWkWHKqyw8titbG3m7A=s96-c",
+        "type": "default"
+    }],
+    "picture": "https://lh3.googleusercontent.com/a-/AOh14GiylkA0s5MKTrjfBGFoakbMWkWHKqyw8titbG3m7A=s96-c",
+    "_raw": "{\n \"sub\": \"102273692628710230540\",\n \"name\": \"eric niyonkuru\",\n \"given_name\": \"eric\",\n \"family_name\": \"niyonkuru\",\n \"picture\": \"https://lh3.googleusercontent.com/a-/AOh14GiylkA0s5MKTrjfBGFoakbMWkWHKqyw8titbG3m7A\\u003ds96-c\",\n \"email\": \"niyonkurufamous@gmail.com\",\n \"email_verified\": true,\n \"locale\": \"en\"\n}",
+    "_json": {
+        "sub": "102273692628710230540",
+        "name": "eric niyonkuru",
+        "given_name": "eric",
+        "family_name": "niyonkuru",
+        "picture": "https://lh3.googleusercontent.com/a-/AOh14GiylkA0s5MKTrjfBGFoakbMWkWHKqyw8titbG3m7A=s96-c",
+        "email": "niyonkurufamous@gmail.com",
+        "email_verified": true,
+        "locale": "en"
+    }
+}

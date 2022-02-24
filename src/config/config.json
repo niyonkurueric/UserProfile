@@ -1,0 +1,24 @@
+{
+    "development": {
+        "username": "Tengo",
+        "password": "Tengo",
+        "database": "Userinfo",
+        "host": "localhost",
+        "dialect": "postgres"
+    },
+    "test": {
+        "username": "Tengo",
+        "password": "Tengo",
+        "database": "Userinfo",
+        "host": "localhost",
+        "dialect": "postgres"
+    },
+    "production": {
+        "use_env_variable": "DATABASE_URL",
+        "username": "Tengo",
+        "password": "Tengo",
+        "database": "Userinfo",
+        "host": "localhost",
+        "dialect": "postgres"
+    }
+}
